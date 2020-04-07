@@ -1,0 +1,23 @@
+{
+  "name": "xpr001",
+  "version": "0.0.1",
+  "description": "Grid based game experimentation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfh-114/"
+  },
+  "keywords": [
+    "xpr001"
+  ],
+  "author": "Mohammad Firoj Haider",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.8.3"
+  }
+}
